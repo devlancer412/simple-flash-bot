@@ -1,0 +1,11 @@
+{
+  "seed": "asd asd asd asd asd asd asd asd asd asd asd asd asd asd",
+  "primaryWalletId": 0,
+  "startWalletId": 0,
+  "endWalletId": 10,
+  "rpcUrl": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "contractAddress": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+  "mintFee": 200000,
+  "rewardFee": 100000,
+  "transferFee": 21000
+}
